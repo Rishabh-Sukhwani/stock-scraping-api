@@ -1,0 +1,73 @@
+{
+    "elements": [
+        {
+            "from": "#quote-header-info > div.My\\(6px\\).Pos\\(r\\).smartphone_Mt\\(6px\\).W\\(100\\%\\) > div.D\\(ib\\).Va\\(m\\).Maw\\(65\\%\\).Ov\\(h\\) > div > fin-streamer.Fw\\(b\\).Fz\\(36px\\).Mb\\(-4px\\).D\\(ib\\)",
+            "to": "price"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(1) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "prev_close"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(2) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "open"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(3) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "bid"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(4) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "ask"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(5) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "days_range"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(6) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "52_week_range"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(7) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\) > fin-streamer > span",
+            "to": "volume"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pend\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pend\\(0px\\).smartphone_BdY.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr.Bxz\\(bb\\).Bdbw\\(1px\\).Bdbs\\(s\\).Bdc\\(\\$seperatorColor\\).H\\(36px\\).Bdbw\\(0\\)\\! > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "avg_volume"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pstart\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).ie-7_Pos\\(a\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pstart\\(0px\\).smartphone_BdB.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(1) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "market_cap"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pstart\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).ie-7_Pos\\(a\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pstart\\(0px\\).smartphone_BdB.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(2) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "beta"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pstart\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).ie-7_Pos\\(a\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pstart\\(0px\\).smartphone_BdB.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(3) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "pe"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pstart\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).ie-7_Pos\\(a\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pstart\\(0px\\).smartphone_BdB.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr:nth-child(4) > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "eps"
+        },
+        {
+            "from": "[data-test='EARNINGS_DATE-value']",
+            "to": "earnings_date"
+        },
+        {
+            "from": "[data-test='DIVIDEND_AND_YIELD-value']",
+            "to": "dividend_and_yield"
+        },
+        {
+            "from": "[data-test='EX_DIVIDEND_DATE-value'] span",
+            "to": "ex_dividend_yield"
+        },
+        {
+            "from": "#quote-summary > div.D\\(ib\\).W\\(1\\/2\\).Bxz\\(bb\\).Pstart\\(12px\\).Va\\(t\\).ie-7_D\\(i\\).ie-7_Pos\\(a\\).smartphone_D\\(b\\).smartphone_W\\(100\\%\\).smartphone_Pstart\\(0px\\).smartphone_BdB.smartphone_Bdc\\(\\$seperatorColor\\) > table > tbody > tr.Bxz\\(bb\\).Bdbw\\(1px\\).Bdbs\\(s\\).Bdc\\(\\$seperatorColor\\).H\\(36px\\).Bdbw\\(0\\)\\! > td.Ta\\(end\\).Fw\\(600\\).Lh\\(14px\\)",
+            "to": "target_est"
+        }
+    ]
+}
+
